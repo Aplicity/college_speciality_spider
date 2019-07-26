@@ -16,7 +16,7 @@
 
 ## 抓包
 ### 构建IP池
-类proxy主要用于建立IP池。对代理网站https://www.xicidaili.com/wt爬取代理IP，具体说明见：https://github.com/Aplicity/found_IPpool
+类proxy主要用于建立IP池。对代理网站https://www.xicidaili.com/wt 爬取代理IP，具体说明见：https://github.com/Aplicity/found_IPpool
 
 ### 高考数据爬虫
 目标URL规则：http://college.gaokao.com/spepoint/o + 高校名字 + /p/ + 页码
@@ -39,4 +39,4 @@ Note：对于更详细的处理公式或技巧请见分析报告：基于高校�
 
 
 ## 分析结论
-[基于高校招生数据的数据分析及应用研究.pdf](基于高校招生数据的数据分析及应用研究.pdf)
+[基于高校招生数据的数据分析及应用研究.pdf](https://github.com/Aplicity/college_speciality_spider/blob/master/%E5%9F%BA%E4%BA%8E%E9%AB%98%E6%A0%A1%E6%8B%9B%E7%94%9F%E6%95%B0%E6%8D%AE%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6.pdf)
